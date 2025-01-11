@@ -1,5 +1,7 @@
 # Analytics on Stock Market Data Live Stream using AWS
 
+![image](https://github.com/user-attachments/assets/3dc5010a-defa-4445-b38c-423d2301ab0d)
+
 ### Data 
 
  Live Market Data:
